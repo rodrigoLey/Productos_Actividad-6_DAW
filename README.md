@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Actividad 6 - Diseño de Aplicaciones Web
+# Actividad 6 - Diseño de Aplicaciones Web
 
 ## About Laravel
 
