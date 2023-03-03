@@ -1,1 +1,1 @@
-Creación de nuevos productos
+Creación de nuevos productos.

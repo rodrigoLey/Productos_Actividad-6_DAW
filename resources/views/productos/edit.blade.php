@@ -1,1 +1,1 @@
-Edición del producto
+Edición del producto.
